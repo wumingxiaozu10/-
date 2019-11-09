@@ -4,4 +4,4 @@
 //$ git commit -m "描述文字"
 //$ git remote add origin https://github.com/wumingxiaozu10/-.git
 //git push -u origin master
-console.log("hello")
+console.log("修改方法")
